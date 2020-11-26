@@ -33,7 +33,7 @@ https://youtu.be/gToq3WTeZrw
 https://drive.google.com/file/d/1qZexpNQtMXDDBEY-UJL4JC9qns0XPR5V/view?usp=sharing
 
 # [리소스 출처]
-3D Model & Animation: https://www.mixamo.com/#/(3D 무료 에셋)
+3D Model & Animation: https://www.mixamo.com/ (3D 무료 에셋)
 
 2D Texture: UnityEngine
 
